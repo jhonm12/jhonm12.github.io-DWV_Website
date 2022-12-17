@@ -1,0 +1,22 @@
+---
+title: "About"
+image: "IMG_1272.jpg"
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:jonathan.macias@ucdenver.edu
+    - text: Go to Canvas
+      icon: book
+      href: https://ucdenver.instructure.com
+  
+---
+
+About Jonathan
+
+```{r}
+1 + 1
+```

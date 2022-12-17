@@ -1,0 +1,14 @@
+---
+title: "Hobbies"
+image: "book.jpg"
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+---
+
+## List of Hobbies
+
+* Soccer: It is fun to play, I'm alright at this
+* Reading: I love reading whenever I have free time.
+* Video Games: Currently playing a lot of Overwatch and Rocket League. I'm alright at this.

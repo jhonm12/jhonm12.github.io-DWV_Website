@@ -1,0 +1,30 @@
+---
+title: "Jonathan Macias"
+image: "IMG_1272.jpg"
+about: 
+  id: ppc
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:jonathan.macias@ucdenver.edu
+    - text: Go to Canvas
+      icon: book
+      href: https://ucdenver.instructure.com
+---
+
+:::{#ppc}
+## Skills
+
+* Programming
+* Data Wrangling
+* Data Visualization
+
+## Education
+
+* Economics Major
+* Junior
+* Attended DSST: GVR High School
+:::
